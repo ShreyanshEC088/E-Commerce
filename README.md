@@ -26,7 +26,6 @@
 - You can reach the project from [localhost:3000](http://localhost:3000/)
 
 ---
-Learning is Fun!!
 
 ## Learn More
 
